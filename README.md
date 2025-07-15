@@ -1,4 +1,4 @@
-#USING MESSAGE QUEUE to SAVE INFORMATION STUDENT
+# USING MESSAGE QUEUE to SAVE INFORMATION STUDENT
 - Create a struct message (information student)
 - Show MENU in terminal:
     01-Enter information from keyboard
